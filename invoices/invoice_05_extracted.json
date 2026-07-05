@@ -1,0 +1,42 @@
+{
+  "VendorName": {
+    "value": "Alpha Security Systems\nSaddar, Rawalpindi",
+    "confidence": 0.56
+  },
+  "InvoiceId": {
+    "value": "ASS-INV-3310",
+    "confidence": 0.987
+  },
+  "InvoiceDate": {
+    "value": "2026-06-22",
+    "confidence": 0.987
+  },
+  "DueDate": {
+    "value": "2026-07-22",
+    "confidence": 0.987
+  },
+  "InvoiceTotal": {
+    "value": "Rs. 158,500",
+    "confidence": 0.955
+  },
+  "Items": [
+    {
+      "description": "CCTV camera (4MP dome)",
+      "quantity": "10",
+      "unit_price": "Rs. 9,800",
+      "amount": "Rs. 98,000"
+    },
+    {
+      "description": "NVR 16-channel",
+      "quantity": "1",
+      "unit_price": "Rs. 42,000",
+      "amount": "Rs. 42,000"
+    },
+    {
+      "description": "Installation & cabling",
+      "quantity": "1",
+      "unit_price": "Rs. 18,500",
+      "amount": "Rs. 18,500"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "VendorName": {
+    "value": "BRIGHT PRINT HOUSE\nKarachi Company, Islamabad",
+    "confidence": 0.688
+  },
+  "InvoiceId": {
+    "value": "BPH-4452",
+    "confidence": 0.989
+  },
+  "InvoiceDate": {
+    "value": "2026-06-25",
+    "confidence": 0.989
+  },
+  "DueDate": {
+    "value": "2026-07-10",
+    "confidence": 0.989
+  },
+  "InvoiceTotal": {
+    "value": "79,500",
+    "confidence": 0.536
+  },
+  "Items": [
+    {
+      "description": "Company brochures (full color)",
+      "quantity": "500",
+      "unit_price": "85",
+      "amount": "42,500"
+    },
+    {
+      "description": "Business cards (box of 100)",
+      "quantity": "15",
+      "unit_price": "1,200",
+      "amount": "18,000"
+    },
+    {
+      "description": "Banner 6x3 ft",
+      "quantity": "1",
+      "unit_price": "1,000",
+      "amount": "1,000"
+    }
+  ]
+}

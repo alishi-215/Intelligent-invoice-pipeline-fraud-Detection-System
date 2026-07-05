@@ -1,0 +1,42 @@
+{
+  "VendorName": {
+    "value": "MEEZAN CATERING SERVICES",
+    "confidence": 0.894
+  },
+  "InvoiceId": {
+    "value": "MCS-0977",
+    "confidence": 0.988
+  },
+  "InvoiceDate": {
+    "value": "2026-06-18",
+    "confidence": 0.988
+  },
+  "DueDate": {
+    "value": "2026-06-28",
+    "confidence": 0.987
+  },
+  "InvoiceTotal": {
+    "value": "64,750",
+    "confidence": 0.486
+  },
+  "Items": [
+    {
+      "description": "Corporate lunch (per head)",
+      "quantity": "45",
+      "unit_price": "950",
+      "amount": "42,750"
+    },
+    {
+      "description": "Beverage station",
+      "quantity": "1",
+      "unit_price": "8,000",
+      "amount": "8,000"
+    },
+    {
+      "description": "Service staff (per person)",
+      "quantity": "4",
+      "unit_price": "3,500",
+      "amount": "14,000"
+    }
+  ]
+}
